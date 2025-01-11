@@ -1,5 +1,5 @@
 
-
+ /* Shared style */
 nav {
     display: flex;
     justify-content: space-between;
@@ -77,4 +77,26 @@ a{text-decoration: none;
 }
 
 
+ /* Vision oF future */
 
+
+.future-parent-div{
+    display: flex;
+    justify-content: space-between
+}
+
+.future-child-div1{
+    width: 410.67px;
+    height: 325px;
+    background-color: #5490F5;
+}
+.future-child-div2{
+    width: 410.67px;
+    height: 325px;
+    background-color: #C6E4D6;   
+}
+.future-child-div3{
+    width: 410.67px;
+    height: 325px;
+    background-color: #F7EBCF;
+}
