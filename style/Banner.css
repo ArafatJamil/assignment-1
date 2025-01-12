@@ -20,7 +20,7 @@ nav {
     font-size: 32px;
 }
 
-button{
+.button0{
     font-weight: 600;
     font-size: 18px;
     color: #006A50;
@@ -37,9 +37,29 @@ button{
     font-weight: 600;
     color: white;
     background-color: #FFC239;
-    /* text-decoration: none; */
     padding: 11px 20px;
     border-radius: 8px;
+    
+}
+.button2{
+
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: #09A15C;
+    padding: 11px 20px;
+    border-radius: 8px;
+    
+}
+.button3{
+
+    /* font-size: 16px; */
+    font-weight: 600;
+    color: white;
+    background-color:blue;
+    padding: 11px 20px;
+    border-radius: 8px;
+    
 }
 
 a{text-decoration: none;
@@ -99,7 +119,7 @@ a{text-decoration: none;
 .future-child-div1{
     width: 410.67px;
     height: 325px;
-    background-color: #5490F5;
+    background-color: #5490F5 ;
     padding: 32px 32px;
     gap: 24px;
     border-radius: 16px;
@@ -147,6 +167,86 @@ a{text-decoration: none;
     font-style: normal;
     font-size: 16px;
 }
-.card{
-    /* margin: 32px 0px 0px 32px; */
+
+
+/* Recent News */
+
+.satelite{
+    display: flex;
 }
+
+.section2{
+    width: 1280px;
+    height: 402px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+}
+
+
+.img-satelite{
+    border-radius: 24px;
+    width: 408px;
+    height: 306px;
+}
+.div-satelite{
+    margin-left: 32px;
+}
+
+.button-stlite{
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: #09A15C;
+    padding: 11px 20px;
+    border-radius: 8px;
+}
+
+
+/* Donate Today */
+
+.h1Donate{
+    text-align: center;
+    font-size: 40px;
+    font-style: bold;
+}
+.p1Donate{
+    font-size: 16px;
+    font-style: normal;
+    width: 1104px;
+    height: 48px;
+    margin-left: 88px;
+    margin-right: 88px;
+    text-align: center;
+}
+
+.divDonate{
+    margin-left: 104.5px;
+    margin-right: 104.5px;
+}
+.btn1{
+    width: 240px;
+    height: 128px;
+    border-radius: 16px;
+    font-size: 40px;
+    font-style: bold;
+    text-align: center;
+    margin: 0px 24px 0px 24px;
+}
+.btn2{
+    width: 240px;
+    height: 128px;
+    border-radius: 16px;
+    font-size: 40px;
+    font-style: bold;
+    text-align: center;
+    margin: 0px 24px 0px 24px;
+    background-color: #C6E4D6;
+}
+#Amount{
+    width: 1032px;
+    height: 64px;
+    margin-top: 32px;
+    margin-left: 124px;
+    text-align: center;
+}
+
