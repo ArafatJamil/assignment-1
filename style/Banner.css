@@ -30,6 +30,17 @@ button{
     
     
 }
+.button1{
+    /* width: 122px; */
+    /* height: 41px; */
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: #FFC239;
+    /* text-decoration: none; */
+    padding: 11px 20px;
+    border-radius: 8px;
+}
 
 a{text-decoration: none;
 
@@ -89,14 +100,53 @@ a{text-decoration: none;
     width: 410.67px;
     height: 325px;
     background-color: #5490F5;
+    padding: 32px 32px;
+    gap: 24px;
+    border-radius: 16px;
+}
+
+.future-child-div1 h1{
+    font-style: bold;
+    font-size: 20px;
+}
+
+.future-child-div1 p{
+    font-style: normal;
+    font-size: 16px;
 }
 .future-child-div2{
     width: 410.67px;
     height: 325px;
     background-color: #C6E4D6;   
+    padding: 32px 32px;
+    gap: 24px;
+    border-radius: 16px;
+}
+.future-child-div2 h1{
+    font-style: bold;
+    font-size: 20px;
+}
+.future-child-div2 p{
+    font-style: normal;
+    font-size: 16px;
 }
 .future-child-div3{
     width: 410.67px;
     height: 325px;
     background-color: #F7EBCF;
+    padding: 32px 32px;
+    gap: 24px; 
+    border-radius: 16px;
+    
+}
+.future-child-div3 h1 {
+    font-style: bold;
+    font-size: 20px;
+}
+.future-child-div3 p{
+    font-style: normal;
+    font-size: 16px;
+}
+.card{
+    /* margin: 32px 0px 0px 32px; */
 }
